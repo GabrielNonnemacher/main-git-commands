@@ -1,4 +1,6 @@
 # 📘 Principais Comandos Git
+Para mais informações consulte a documentação oficial: https://git-scm.com/docs
+
 ## 🔧 Configuração Inicial
 Define o nome e email do usuário para todos os repositórios locais.
 <pre><code>git config --global user.name "Seu Nome"</code></pre>
